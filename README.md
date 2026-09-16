@@ -38,7 +38,7 @@ engineer:
   name: "Ayan Bohara"
   based_in: "Sanobharyang, Kathmandu, Nepal"
   studies: "Bachelor in Computer Application (BCA) @ Prime College"
-  identity: "Creative Designer + Tech Enthusiast + QA Engineer"
+  identity: "UI/UX Designer + Tech Enthusiast + QA Engineer + Frontent Developer"
 
 philosophy: >
   I sit at the intersection of design, engineering, and quality — someone who
@@ -60,8 +60,8 @@ currently:
 
 **🎯 Open To**
 - QA / Software Testing Engineer roles
+- UI/UX design 
 - Frontend Development roles
-- UI/UX design collaborations
 - Internships & entry-level engineering opportunities
 
 </td>
@@ -184,9 +184,9 @@ Focused on developing a structured, professional QA workflow: writing test cases
 
 **Bachelor in Computer Application (BCA)**
 **Prime College**
-*Ongoing*
 
-Pursuing a foundational computer science and applications degree while actively building frontend development and QA engineering skills alongside coursework.
+
+Completed a foundational computer science and applications degree while actively building frontend design/development and QA engineering skills alongside coursework.
 
 `Computer Science Fundamentals` `Web Development` `Software Testing` `Networking`
 
@@ -195,10 +195,7 @@ Pursuing a foundational computer science and applications degree while actively 
 
 ---
 
-## 💼 Experience
 
-<table>
-<tr><td>
 
 **Creative Designer & Aspiring QA Engineer**
 **Self-Directed / Prime College**
@@ -218,9 +215,7 @@ Building a professional foundation across design, frontend development, and soft
 
 ---
 
-## 🏆 Achievements
 
-<div align="center">
 
 | Recognition | Details |
 |---|---|
@@ -272,25 +267,7 @@ Building a professional foundation across design, frontend development, and soft
 
 ---
 
-## 🏅 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AyanBohara&theme=radical&no-frame=true&no-bg=true&row=1&column=6"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://activity-graph.herokuapp.com/graph?username=AyanBohara&theme=react-dark&hide_border=true&bg_color=0F0C29&color=B388FF&line=6A0DAD&point=E0AAFF"/>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
