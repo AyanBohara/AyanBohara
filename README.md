@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AyanBohara
-- 👀 I’m interested in Full Stack Developer/UI-UX Designer
-- 🌱 I’m currently learning MERN
+- 👀 I’m interested in Full Stack Developer/ QA
+- 🌱 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me angilbohara@gmail.com
+- 📫 How to reach me ayanbohara123@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Let's Run Grow Develope
 
