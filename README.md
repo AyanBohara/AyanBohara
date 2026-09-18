@@ -107,7 +107,7 @@ currently:
 |---|:---:|---|
 | **Manual & Functional Testing** | ⭐⭐⭐⭐☆ | Test case design, exploratory testing, functional/UI validation |
 | **Bug Tracking & Reporting** | ⭐⭐⭐⭐☆ | Clear, reproducible defect reports and triage workflows |
-| **API Testing** | ⭐⭐⭐☆☆ | Request/response validation and endpoint testing with Postman |
+| 
 | **Networking & Systems Fundamentals** | ⭐⭐⭐⭐☆ | Linux environments, networking basics for infrastructure-aware testing |
 | **SQL for Test Data Validation** | ⭐⭐⭐☆☆ | Query-based data verification and backend validation |
 | **Version Control for QA Workflows** | ⭐⭐⭐⭐☆ | Git/GitHub for test artifacts, issue tracking, and collaboration |
