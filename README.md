@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:6A0DAD&height=250&section=header&text=AYAN%20BOHARA&fontSize=60&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=Creative%20Designer%20%7C%20Tech%20Enthusiast%20%7C%20QA%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/AyanBohara">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Creative+Designer+%2B+Tech+Enthusiast;QA+Engineer+in+the+Making;Full+Stack+%26+Quality-Driven+Builder;BCA+Student+%40+Prime+College;Nepal+%F0%9F%87%B3%F0%9F%87%B5+%E2%86%92+Global&font=Fira+Code&center=true&width=780&height=50&duration=3000&pause=800&color=B388FF&vCenter=true&size=24&background=00000000"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Creative+Designer+%2B+Tech+Enthusiast;QA+Engineer+in+the+Making;Quality-Driven+Builder;BCA+Student+%40+Prime+College;Nepal+%F0%9F%87%B3%F0%9F%87%B5+%E2%86%92+Global&font=Fira+Code&center=true&width=780&height=50&duration=3000&pause=800&color=B388FF&vCenter=true&size=24&background=00000000"/>
 </a>
 
 <br/>
